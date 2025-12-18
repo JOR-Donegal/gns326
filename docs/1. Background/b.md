@@ -15,27 +15,35 @@ First, go to the module pages on Blackboard and download the image for the 7200 
 Open GNS3 and create a new project called __CiscoIOS__
 
 <figure>
-<img src = "https://jor-donegal.github.io/PowerShell7/images/fig1.png">
+<img src = "https://jor-donegal.github.io/GNS326/images/fig1.png">
 <figcaption>Fig 1. New Project.</figcaption>
 </figure>
 
 Select __Routers__ and then __New Template__.
 
 <figure>
-<img src = "https://jor-donegal.github.io/PowerShell7/images/fig2.avif">
+<img src = "https://jor-donegal.github.io/GNS326/images/fig2.avif">
 <figcaption>Fig 2. New Template.</figcaption>
 </figure>
 
 Select to __Install from the GNS3 server__, click __Next__.
 
 <figure>
-<img src = "https://jor-donegal.github.io/PowerShell7/images/fig3.avif">
+<img src = "https://jor-donegal.github.io/GNS326/images/fig3.avif">
 <figcaption>Fig 3. Install from GNS3 server.</figcaption>
 </figure>
 
 Select __Routers__ and then __Cisco 7200__. If the option is not there, then click __Update from online registry__. Then click __Install__.
 
 <figure>
-<img src = "https://jor-donegal.github.io/PowerShell7/images/fig4.avif">
+<img src = "https://jor-donegal.github.io/GNS326/images/fig4.avif">
 <figcaption>Fig 4. Select appliance.</figcaption>
 </figure>
+
+Install the appliance on the local computer. Click __Next__.
+
+<figure>
+<img src = "https://jor-donegal.github.io/GNS326/images/fig5.avif">
+<figcaption>Fig 5. Select appliance.</figcaption>
+</figure>
+

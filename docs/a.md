@@ -1,7 +1,10 @@
 # Installation
-The easiest way (IMHO) to use GNS3 is to build a UB2404 VM and install eveything on it nativly. You must have nested virtualization enabled for this to work. 
 
-I used the script below on a UB2204 VM in Azure labs. 
+The easiest way (IMHO) to use GNS3 is to build a UB2404 VM and install everything on it natively. You must have nested virtualization enabled for this to work. Images can be large and a default build of Ubuntu will have a 20GB drive. I recommend using a 40GB drive for this VM. You can expand it afterwards, but its messy!
+
+Also, I recommend 8GB of DRAM and as many cores as you can spare, I use 8 for my exercises.
+
+I used the script below on a UB2204 VM in Azure labs.
 Read through the script and see if you can follow what I did!
 
 ```
